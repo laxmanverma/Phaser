@@ -52,6 +52,8 @@ document.addEventListener('deviceready', function() {
     }
 
     function create () {
+        // window.addEventListener('resize', resize);
+        // resize();
         this.add.image(400, 300, 'sky');
 
         platforms = this.physics.add.staticGroup();
@@ -71,16 +73,16 @@ document.addEventListener('deviceready', function() {
             this.cursors = this.input.keyboard.createCursorKeys();
             isMobile = false;
         } else {
+            this.input.addPointer(9);
             game.scale.scaleMode = Phaser.ScaleModes.NEAREST;
             // Center the game horizontally and vertically
             game.scale.pageAlignHorizontally = true;
             game.scale.pageAlignVertically = true;
             isMobile = true;
-            console.log(isMobile);
             up = this.add.image(700, 550, 'up');
             up.setInteractive();
             // down = this.add.image(100, 580, 'down');
-            rightbtn = this.add.image(250, 550, 'right');
+            rightbtn = this.add.image(150, 550, 'right');
             rightbtn.setInteractive();
             leftbtn = this.add.image(50, 550, 'left');
             leftbtn.setInteractive();

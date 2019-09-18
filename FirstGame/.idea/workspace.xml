@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c01c387-607e-4580-8a09-6378117a0142" name="Default Changelist" comment="" />
+    <list default="true" id="6c01c387-607e-4580-8a09-6378117a0142" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/assets/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/assets/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/assets/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/assets/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/assets/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/assets/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/assets/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/assets/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/up.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/assets/up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/index.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +29,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QE6GLaqCtI96mPyAAMD6aoZYVv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../first" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,11 +73,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567323311816</updated>
-      <workItem from="1567323313244" duration="20640000" />
+      <workItem from="1567323313244" duration="21033000" />
+      <workItem from="1567447334125" duration="2412000" />
+      <workItem from="1567577368609" duration="630000" />
+      <workItem from="1567581691657" duration="1675000" />
+      <workItem from="1567771395014" duration="1202000" />
+      <workItem from="1568700743890" duration="82000" />
+      <workItem from="1568702960906" duration="1296000" />
+      <workItem from="1568714086011" duration="509000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
